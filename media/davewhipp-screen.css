@@ -83,17 +83,13 @@ p code {
 	right: -20%;
 }
 
-small {
-	font-size: .8em;
-}
 
 ul {
 	position: relative;
-	left: 27%;
+	left: 25%;
 	width: 75%;
 	margin-bottom: 1.5em;
-	margin-top: 0em;
-	list-style: circle;
+	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -144,7 +140,7 @@ h2 {
 	position: relative;
 	top: 1.4em;
 	text-align: right;
-	width: 22%;
+	width: 20%;
 }
 
 h3 {
@@ -153,7 +149,7 @@ h3 {
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width: 22%;
+	width: 20%;
 }
 
 a {
@@ -178,23 +174,10 @@ a:hover {
 	text-decoration: none;
 }
 
-p > em {
-	margin-top: -0.5em;
-	display: block;
-	font-size: 0.9em;
-}
-
-p > em:before {
-	content: "|";
-	margin-right: 0.5em;
-	display: inline-block;
-}
-
 em {
 	/* font-weight: bold; */
 	font-style: italic;
 }
-
 
 strong {
 	font-weight: bold;
