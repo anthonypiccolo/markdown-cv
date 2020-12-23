@@ -15,7 +15,7 @@ Digital Analytics Professional
 
 `May 2019 - Present`
 **MYOB**, Cremorne, Victoria
-*Role: Self-Employed Freelancer*
+*Role: Digital Insights Analyst*
 
 - Using AWS Athena and BigQuery for analysis and data manipulation. I'm experienced with SQL and relational databases. This might involve writing SQL queries and transformations, putting them into Airow DAGs to run on schedule to prepare them for a presentation layer.For example writing business logic to track user journey's all the way from lead/prospect to paying subscriber and delivering insights to stakeholders for decision making
 - Creating ETLs to send data between cloud services. For example, rolled up GA table inBigQuery to a session level and used various servicees(Cloud Functions, Pub/Sub, Source Repository, GCS) within GCP to send transformed table to AWS
