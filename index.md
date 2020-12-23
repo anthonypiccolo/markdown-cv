@@ -27,7 +27,7 @@ Working within the Digital Analytics team within Operations & Enablement at MYOB
 - Writing business logic in SQL
 - Creating ETLs to send data between cloud services
 - DDA attribution modelling for marketing effectiveness
-- Good software engineering practices using git and clean code principles
+- Software engineering practices using git and clean code principles
 
 `October 2018 - May 2019`
 **Country Road Group**, Richmond, Victoria
@@ -45,7 +45,7 @@ As the Group SEM Specialist I lead and executed the strategy for performance mar
 
 *Role: Group SEM Analyst*
 
-In my role as Group SEM Analyst I lead and executed the strategy for performance marketing activities across CRG brands. I had particular focus on acquisition via Paid Seearch channels and during my time in this position I worked with stakeholders from brands directly.
+In my role as Group SEM Analyst I lead and executed the strategy for performance marketing activities across CRG brands. I had particular focus on acquisition via Paid Search channels and during my time in this position I worked with stakeholders from brands directly.
 
 - Restructure of accounts to align with industry standards / best practice
 - Performance reporting
@@ -57,7 +57,7 @@ In my role as Group SEM Analyst I lead and executed the strategy for performance
 
 *Role: Performance Executive*
 
-Provided client service, implementation and strategic direction for BMW, MINI, UNIQLO and Porter David Paid Search accounts. Liaised with Google account managers to ensure the best outcomes for clients were being achieved. Worked with other agency partners and  stakeholders to execute on campaigns across other channels. This might mean presenting a strategy to wider teams and responsing to briefs.
+Provided client service, implementation and strategic direction for BMW, MINI, UNIQLO and Porter Davis Paid Search accounts. Liaised with Google account managers to ensure the best outcomes for clients were being achieved. Worked with other agency partners and  stakeholders to execute on campaigns across other channels. This might mean presenting a strategy to wider teams and responding to briefs.
 
 `January 2016 - June 2017`
 **Columbus Agency**, South Melbourne, Victoria
