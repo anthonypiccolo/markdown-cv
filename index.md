@@ -1,16 +1,16 @@
 ---
 layout: cv
-title: Tyler King's CV
+title: Anthony Piccolo's CV
 ---
-# Tyler King
-Developing solutions through experience.
+# Anthony James Piccolo
+Digital Analytics Professional
 
-father \| homebrewer \| motorcycle enthusiast \| experienced programmer
+coffee enthusiast \| runner \| finance \| experience analytics professional
 
 <div id="webaddress">
-<i class="fas fa-at"></i> <a href="tyler@osiset.com">tyler@osiset.com</a> /
-<i class="fas fa-globe-americas"></i> <a href="https://osiset.com" target="_blank">osiset.com</a> /
-<i class="fab fa-github-alt"></i> <a href="https://github.com/osiset" target="_blank">osiset</a>
+<i class="fas fa-at"></i> <a href="anthony@piccolo.xyz">anthony@piccolo.xyz</a> /
+<i class="fas fa-globe-americas"></i> <a href="https://anthonypiccolo.xyz" target="_blank">anthonypiccolo.xyz</a> /
+<i class="fab fa-github-alt"></i> <a href="https://github.com/anthonypiccolo" target="_blank">anthonypiccolo</a>
 </div>
 
 ## Currently
@@ -41,9 +41,9 @@ In everything I code, I believe in following the single-purpose principle. Each 
 ## Career Experience
 
 `Jan 2014 - Present`
-**Little Rocket**, Toronto, Canada
+**MYOB**, Cremorne, Victoria
 
-*Role: CTO*
+*Role: Digital Insights Analayst*
 
 Leading a team of developers within our full-service agency, focused in the Canadian cannabis space revolving around the Shopify platform. Developing first-class custom Shopify themes, Shopify apps, connectors and integrations for various clients across North America.
 
@@ -51,7 +51,7 @@ Heading custom development for clients such as Universal Music, Leon's, The Bric
 
 Daily duties include:
 
-- Manage and oversee development team
+- Using AWS Athena and BigQuery for analysis and data manipulation. I'm experienced with SQL and relational databases. This might involve writing SQL queries and transformations, putting them into Air ow DAGs to run on schedule to prepare them for a presentation layer. For example, writing business logic to track user journey's all the way from lead/prospect to paying subscriber and delivering insights to stakeholders for decision making
 - Delegate projects and tasks
 - Crafting and creating development processes for the team
 - Developing custom Shopify apps, themes, connectors, and more
