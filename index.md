@@ -17,12 +17,17 @@ Digital Analytics Professional
 __MYOB, Cremorne, Victoria__
 *Role: Self-Employed Freelancer*
 
-- Using AWS Athena and BigQuery for analysis and data manipulation. I'm experienced with SQL and relational databases. This might involve writing SQL queries and transformations, putting them into Airow DAGs to run on schedule to prepare them for a presentation layer.
-For example, writing business logic to track user journey's all the way from lead/prospect to paying subscriber and delivering insights to stakeholders for decision making
-- Creating ETLs to send data between cloud services. For example, rolled up GA table inBigQuery to a session level and used various services (Cloud Functions, Pub/Sub, Source Repository, GCS) within GCP to send transformed table to AWS
-- Experienced using Segment as a CDP for all event capture. Building Personas to send cohorts to other destinations (ie. media buying tools and other analytics services)
+- Using AWS Athena and BigQuery for analysis and data manipulation. I'm experienced with SQL and relational databases.
+This might involve writing SQL queries and transformations, putting them into Airow DAGs to run on schedule to prepare them
+for a presentation layer.For example, writing business logic to track user journey's all the way from lead/prospect to paying
+subscriber and delivering insights to stakeholders for decision making
+- Creating ETLs to send data between cloud services. For example, rolled up GA table inBigQuery to a session level and used
+various services (Cloud Functions, Pub/Sub, Source Repository, GCS) within GCP to send transformed table to AWS
+- Experienced using Segment as a CDP for all event capture. Building Personas to send cohorts to other destinations
+(ie. media buying tools and other analytics services)
 - Creating DDA attribution modelling to properly value acquisition efforts and value channels
-within media mix. Where DDA is not valuable, on-going testing is utilised through randomised control experiments and geo testing
+within media mix. Where DDA is not valuable, on-going testing is utilised through randomised control experiments and
+geo testing
 - Employing good software engineering practices using git and clean code principles
 
 `June 1661 - now`
