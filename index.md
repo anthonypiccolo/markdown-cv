@@ -15,6 +15,7 @@ Digital Analytics Professional
 
 `May 2019 - Present`
 __MYOB, Cremorne, Victoria__
+*Role: Self-Employed Freelancer*
 
 - Using AWS Athena and BigQuery for analysis and data manipulation. I'm experienced with SQL and relational databases. This might involve writing SQL queries and transformations, putting them into Airow DAGs to run on schedule to prepare them for a presentation layer.
 For example, writing business logic to track user journey's all the way from lead/prospect to paying subscriber and delivering insights to stakeholders for decision making
