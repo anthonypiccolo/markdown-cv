@@ -53,7 +53,7 @@ In my role as Group SEM Analyst I lead and executed the strategy for performance
 - Increased efficiency, transaction volume and improved ROAS
 
 `July 2017 - January 2018`
-**Columbus Agency (Dentus Aegis Network)**, South Melbourne, Victoria
+**Columbus Agency**, South Melbourne, Victoria
 
 *Role: Performance Executive*
 
