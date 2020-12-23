@@ -6,16 +6,10 @@ title: Anthony Piccolo's CV
 Digital Analytics Professional
 
 <div id="webaddress">
-<a href="anthony@piccolo.xyz">anthony@piccolo.xyz</a>
-| <a href="https://anthonypiccolo.xyz">anthonypiccolo.xyz</a>
-</div>
-
-<div id="webaddress">
 <i class="fas fa-at"></i> <a href="anthony@piccolo.xyz">anthony@piccolo.xyz/a> /
 <i class="fas fa-globe-americas"></i> <a href="https://anthonypiccolo.xyz" target="_blank">anthonypiccolo.xyz</a> /
 <i class="fab fa-github-alt"></i> <a href="https://github.com/anthonypiccolo" target="_blank">anthonypiccolo</a>
 </div>
-
 
 ## Currently
 
