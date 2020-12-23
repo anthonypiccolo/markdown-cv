@@ -11,24 +11,18 @@ Digital Analytics Professional
 <i class="fab fa-github-alt"></i> <a href="https://github.com/anthonypiccolo" target="_blank">anthonypiccolo</a>
 </div>
 
-## Currently
+## Career Experience
 
-Standing on the shoulders of giants
+`May 2019 - Present`
+__MYOB, Cremorne, Victoria__
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
+- Using AWS Athena and BigQuery for analysis and data manipulation. I'm experienced with SQL and relational databases. This might involve writing SQL queries and transformations, putting them into Airow DAGs to run on schedule to prepare them for a presentation layer.
+For example, writing business logic to track user journey's all the way from lead/prospect to paying subscriber and delivering insights to stakeholders for decision making
+- Creating ETLs to send data between cloud services. For example, rolled up GA table inBigQuery to a session level and used various services (Cloud Functions, Pub/Sub, Source Repository, GCS) within GCP to send transformed table to AWS
+- Experienced using Segment as a CDP for all event capture. Building Personas to send cohorts to other destinations (ie. media buying tools and other analytics services)
+- Creating DDA attribution modelling to properly value acquisition efforts and value channels
+within media mix. Where DDA is not valuable, on-going testing is utilised through randomised control experiments and geo testing
+- Employing good software engineering practices using git and clean code principles
 
 `June 1661 - now`
 __Trinity College, Cambridge__
