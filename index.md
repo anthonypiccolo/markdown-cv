@@ -5,7 +5,7 @@ title: Anthony Piccolo's CV
 # Anthony James Piccolo
 Digital Analytics Professional
 
-coffee enthusiast \| runner \| finance \| experience analytics professional
+coffee enthusiast \| runner \| politics \| coding
 
 <div id="webaddress">
 <i class="fas fa-at"></i> <a href="anthony@piccolo.xyz">anthony@piccolo.xyz</a> /
@@ -13,126 +13,81 @@ coffee enthusiast \| runner \| finance \| experience analytics professional
 <i class="fab fa-github-alt"></i> <a href="https://github.com/anthonypiccolo" target="_blank">anthonypiccolo</a>
 </div>
 
-## Currently
-
-CTO at [Little Rocket](https://littlerocket.io).<br>
-<small>tyler.king@littlerocket.io</small>
-
-### Specialization
-
-Developing backend systems, Shopify-powered applications, and integrations between platforms/legacy systems.
-
-### Language Proficiency
-
-PHP, Ruby, Python, Golang, Javascript/Typescript, CSS/SASS, SQL, Shell, & more.
-
-### Framework Proficiency
-
-Shopify, Wordpress, Rails, Laravel & Symfony, Express & Koa, Docker, & more.
-
-### Other Skillsets
-
-React Native (BLE & NFC communications) to embedded hardware systems.
-
-### Programming Values
-
-In everything I code, I believe in following the single-purpose principle. Each piece should do one thing and do it well. This will lead to a maintainable codebase which is stable and able to grow with you. SRP, CQR, DRY, and SOLID, are amoung the many principles I follow to achieve that goal.
-
 ## Career Experience
 
-`Jan 2014 - Present`
+`May 2019 - Present`
 **MYOB**, Cremorne, Victoria
 
 *Role: Digital Insights Analayst*
 
-Leading a team of developers within our full-service agency, focused in the Canadian cannabis space revolving around the Shopify platform. Developing first-class custom Shopify themes, Shopify apps, connectors and integrations for various clients across North America.
+Working within the Digital Analytics team within Operations & Enablement at MYOB across SME, Enterprise, Practice & Financial Services. I support key stakeholders from acquisition teams with marketing analytics projects to platform in enabling self-serve analytics across the business.
 
-Heading custom development for clients such as Universal Music, Leon's, The Brick, Nobis, Kappa, Supreme Cannabis and more.
+- Using AWS Athena and BigQuery for analysis and data manipulation
+- Creating Airflow DAGs to run on schedule and prep for presentation layer
+- Writing business logic in SQL
+- Creating ETLs to send data between cloud services
+- DDA attribution modelling for marketing effectiveness
+- Good software engineering practices using git and clean code principles
 
-Daily duties include:
+`October 2018 - May 2019`
+**Country Road Group**, Richmond, Victoria
 
-Using AWS Athena and BigQuery for analysis and data manipulation. I'm experienced with SQL and relational databases. This might involve writing SQL queries and transformations, putting them into Air ow DAGs to run on schedule to prepare them for a presentation layer. For example, writing business logic to track user journey's all the way from lead/prospect to paying subscriber and delivering insights to stakeholders for decision making
-- Delegate projects and tasks
-- Crafting and creating development processes for the team
-- Developing custom Shopify apps, themes, connectors, and more
-- Publish various open source software revolving around Shopify
-- Handle deployment of themes, apps, and systems
-- Lead in projection for future implementations and<br>growth within development for the team
+*Role: Group SEM Specialist*
 
-`Oct 2002 - Present`
-**Blue Wolf Design Group**, Newfoundland
+As the Group SEM Specialist I lead and executed the strategy for performance marketing activities across Country Road, Withcery, Mimco, Trenery and Politix. Grew the team to manage two direct reports and was responsible for driving increased revenue in a tough e-commerce retail marketing with falling AOVs.
 
-*Role: Lead Developer*
+- Brand Paid Search randomised geo experiment design and implementation (GeoexperimentsResearch)
+- Store Sales Direct Data (online member transactional data) - ad clicks to offline sales attribution
+- Forecasting revenue from performance marketing (prophet R package)
 
-A family-run operation on "The Rock" with a role of developing, maintaining, and deploying websites for various clients who are mainly Newfoundland-based. For industries such as pharamacies, hunting outfitters, tourism, and more.
+`January 2018 - September 2018`
+**Country Road Group**, Richmond, Victoria
 
-`Sep 2012 - Aug 2013`
-**Dixon Designs**, Los Gatos, California
+*Role: Group SEM Analyst*
 
-*Role: Lead Developer*
+In my role as Group SEM Analyst I lead and executed the strategy for performance marketing activities across CRG brands. I had particular focus on acquisition via Paid Seearch channels and during my time in this position I worked with stakeholders from brands directly.
 
-Developed a full featured niche custom platform for those in the beauty industry.
+- Restructure of accounts to align with industry standards / best practice
+- Performance reporting
+- Naming conventions through standardised taxonomy
+- Increased efficiency, transaction volume and improved ROAS
 
-Utilized various backend and frontend systems/languages for the website and API such as AWS for deployment, Symfony (PHP), Flask (Python), SASS and Javascript.
+`July 2017 - January 2018`
+**Columbus Agency (Dentus Aegis Network)**, South Melbourne, Victoria
 
-`Mar 2011 - Aug 2011`
-**Visionx Creative**, Hollister, California
+*Role: Performance Executive*
 
-*Role: Senior Developer*
+Provided client service, implementation and strategic direction for BMW, MINI, UNIQLO and Porter David Paid Search accounts. Liaised with Google account managers to ensure the best outcomes for clients were being achieved. Worked with other agency partners and  stakeholders to execute on campaigns across other channels. This might mean presenting a strategy to wider teams and responsing to briefs.
 
-Short term contract to develop and maintain custom websites and plugins for Visionx's clientele through Wordpress and WooCommerce.
+`January 2016 - June 2017`
+**Columbus Agency**, South Melbourne, Victoria
 
-- Worked in collaboration with other developers
-- Developed Wordpress and WooCommerce websites and plugins
+*Role: Performance Analyst*
 
-`Oct 2005 - Jan 2014`
-**Freelance**, Newfoundland
+Implementation and successful running of campaigns on SEM, Social Media, Display and YouTube channels. Worked primarily across the Federal Government media account, with specific focus on DFR (Defence Force Recruiting). Managed budgets of up to $4m per year in Paid Search for DFR to drive applications across all the major forces. Development and execution on major digital marketing Federal Government campaigns including
+the AEC (Federal Election 2016) from inception, to implementation and post campaign analysis. 
 
-*Role: Self-Employed Freelancer*
+## Education
 
-Developed and maintained custom client websites and applications through various platforms. Utilizing the best available and stable tools languages at the time. Developing for companies such as DirecTV and Rackspace.
+`2015 - 2015`
+**Swinburne University of Technology**, Hawthorn, Victoria
 
-- Managed and maintained custom client websites
-- Managed and maintained custom client applications and plugins
-- Worked in collaboration with other remote teams as a subcontractor
-- Utilized various languages for builds such as PHP, Python, Ruby on the<br>backend with the standard frontend toolsets
-- Worked with many platforms for websites and apps
-  - CMS systems (Wordpress, Typo3, Drupal)
-  - Forum systems (phpBB, Invision)
-  - Commerce systems (Shopify, BigCommerce)
-  - Misc. projects with Rails, Laravel, Symfony, Django
+*Bachelor of Arts (Honours)*
+Thesis: 'Tweeting the News: The role of Australian Political Journalists using Twitter.' My thesis tested the extent to which a sample of Australian political journalists were transforming traditional practices when using Twitter as a communicative medium or whether there was a process of normalisation. Over 8000 tweets were captured and analysed using DMI-TCAT.
 
-## Open Source
+`2010 - 2012`
+**Swinburne University of Technology**, Hawthorn, Victoria
 
-I love open source - I both use and contribute. You can find my full open source work on [my Github](https://github.com/osiset) page. Some currently starred projects:
-<br><br>
+*Bachelor of Arts (Journalism)*
+Minor: Politics and Public Policy
 
-`PHP / Laravel`
-**Laravel Shopify**: ([Repo](https://github.com/osiset/laravel-shopify)) A full-featured Laravel package for aiding in Shopify App development.
+## Computing Stack
 
-`Golang`
-**gowith**: ([Repo](https://github.com/osiset/gowith)) A Python with-statement clone for Golang.
-
-`Golang`
-**http_shopify_webhook**: ([Repo](https://github.com/osiset/http_shopify_webhook)) A net/http middleware for validating Shopify webhooks for Golang servers.
-
-`PHP`
-**Basic Shopify API**: ([Repo](https://github.com/osiset/Basic-Shopify-API)) A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
-
-`Typescript`
-**SCSM**: ([Repo](https://github.com/osiset/SCSM)) Helper manager for modifications to Shopify Plus checkouts through Javascript.
-
-`Typescript`
-**Shopify Frontend Helper**: ([Repo](https://github.com/osiset/Shopify-Frontend-Helper)) A tool to help manage API calls for Shopify themes. Includes a discount code verification snippet.
-
-`Golang`
-**themedeploy**: ([Repo](https://github.com/osiset/themedeploy)) An simple automated, delta theme deployer for Shopify.
-
-`Golang`
-**Gochain**: ([Repo](https://github.com/osiset/gochain)) Blockchain example implemented in Golang.
-
-`PHP`
-**With**: ([Repo](https://github.com/osiset/with)) A Python with-statement clone for PHP.
-
-`Bash`
-**CloudApp**: ([Repo](https://github.com/osiset/CloudApp-Bash)) Basic CloudApp implementation for Linux written in Bash.
+- Analytics: Google Analytics
+- Cloud: AWS, GCP
+- Tag Management/Event Capture: Google Tag Manager, Segment
+- Data Visualisation: Tableau, Data Studio
+- Languages: R, Python, SQL (Athena/Presto, BigQuery), HTML, CSS
+- Testing: Optimizely
+- CMS: Wordpress
+- OS: Unix/Linux
