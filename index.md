@@ -5,7 +5,7 @@ title: Anthony Piccolo's CV
 # Anthony James Piccolo
 Digital Analytics Professional
 
-coffee enthusiast \| runner \| politics \| coding
+coffee \| running \| finance \| coding
 
 <div id="webaddress">
 <i class="fas fa-at"></i> <a href="mailto:anthony@piccolo.xyz">anthony@piccolo.xyz</a> /
@@ -20,11 +20,12 @@ coffee enthusiast \| runner \| politics \| coding
 
 *Role: Digital Insights Analayst*
 
-Working within the Digital Analytics team within Operations & Enablement at MYOB across SME, Enterprise, Practice & Financial Services. I support key stakeholders from acquisition teams with marketing analytics projects to platform in enabling self-serve analytics across the business.
+Working in the Digital Analytics team within Operations & Enablement at MYOB across SME, Enterprise, Practice & Financial Services. I support key stakeholders from acquisition teams with marketing analytics projects, to platform and other product lead teams to support the overall progression of analytics at MYOB to make decisions informed by data.
 
 - Using AWS Athena and BigQuery for analysis and data manipulation
+- Making use of event driven architecture (Segment) to create personas for marketing and product analytics
 - Creating Airflow DAGs to run on schedule and prep for presentation layer
-- Writing business logic in SQL
+- Writing business logic in SQL. For example, lead journey to subscription
 - Creating ETLs to send data between cloud services
 - DDA attribution modelling for marketing effectiveness
 - Software engineering practices using git and clean code principles
@@ -34,7 +35,7 @@ Working within the Digital Analytics team within Operations & Enablement at MYOB
 
 *Role: Group SEM Specialist*
 
-As the Group SEM Specialist I lead and executed the strategy for performance marketing activities across Country Road, Withcery, Mimco, Trenery and Politix. Grew the team to manage two direct reports and was responsible for driving increased revenue in a tough e-commerce retail marketing with falling AOVs.
+As the Group SEM Specialist I lead and executed the strategy for performance marketing activities across Country Road, Witchery, Mimco, Trenery and Politix. Grew the team to manage two direct reports and was responsible for driving increased revenue in a competitive e-commerce retail market with falling AOVs.
 
 - Brand Paid Search randomised geo experiment design and implementation (GeoexperimentsResearch)
 - Store Sales Direct Data (online member transactional data) - ad clicks to offline sales attribution
@@ -45,7 +46,7 @@ As the Group SEM Specialist I lead and executed the strategy for performance mar
 
 *Role: Group SEM Analyst*
 
-In my role as Group SEM Analyst I lead and executed the strategy for performance marketing activities across CRG brands. I had particular focus on acquisition via Paid Search channels and during my time in this position I worked with stakeholders from brands directly.
+In my role as Group SEM Analyst I lead and executed the strategy for performance marketing activities across CRG brands. I had particular focus on acquisition via Paid Search channels and during my time in this position I worked with stakeholders from brands directly, publishers and our GA360 and GMP partners.
 
 - Restructure of accounts to align with industry standards / best practice
 - Performance reporting
@@ -57,7 +58,7 @@ In my role as Group SEM Analyst I lead and executed the strategy for performance
 
 *Role: Performance Executive*
 
-Provided client service, implementation and strategic direction for BMW, MINI, UNIQLO and Porter Davis Paid Search accounts. Liaised with Google account managers to ensure the best outcomes for clients were being achieved. Worked with other agency partners and  stakeholders to execute on campaigns across other channels. This might mean presenting a strategy to wider teams and responding to briefs.
+Provided client service, implementation and strategic direction for BMW, MINI, UNIQLO and Porter Davis Paid Search accounts. Liaised with Google account managers to ensure the best outcomes for clients were being achieved. Worked with other agency partners and stakeholders to execute on campaigns across other channels. This might mean presenting a strategy to wider teams and responding to briefs.
 
 `January 2016 - June 2017`
 **Columbus Agency**, South Melbourne, Victoria
