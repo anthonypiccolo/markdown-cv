@@ -18,7 +18,7 @@ coffee \| running \| finance \| coding
 `May 2019 - Present`
 **MYOB**, Cremorne, Victoria
 
-*Role: Digital Insights Analayst*
+*Role: Digital Insights Analyst*
 
 Working in the Digital Analytics team within Operations & Enablement at MYOB across SME, Enterprise, Practice & Financial Services. I support key stakeholders from acquisition teams with marketing analytics projects, to platform and other product lead teams to support the overall progression of analytics at MYOB to make decisions informed by data.
 
