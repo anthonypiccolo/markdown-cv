@@ -74,7 +74,7 @@ the AEC (Federal Election 2016) from inception, to implementation and post campa
 **Swinburne University of Technology**, Hawthorn, Victoria
 
 *Bachelor of Arts (Honours)*
-Thesis: 'Tweeting the News: The role of Australian Political Journalists using Twitter.' My thesis tested the extent to which a sample of Australian political journalists were transforming traditional practices when using Twitter as a communicative medium or whether there was a process of normalisation. Over 8000 tweets were captured and analysed using DMI-TCAT.
+Thesis: '[Tweeting the News: The role of Australian Political Journalists using Twitter.](https://drive.google.com/file/d/0BybJHFqViTODQ3l5N0RULWdpS2s/view?usp=sharing)' My thesis tested the extent to which a sample of Australian political journalists were transforming traditional practices when using Twitter as a communicative medium or whether there was a process of normalisation. Over 8000 tweets were captured and analysed using DMI-TCAT.
 
 `2010 - 2012`
 **Swinburne University of Technology**, Hawthorn, Victoria
