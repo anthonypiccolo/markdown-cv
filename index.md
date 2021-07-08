@@ -22,11 +22,13 @@ coffee \| running \| finance \| coding
 
 Working in the Digital Analytics team within Operations & Enablement at MYOB across SME, Enterprise, Practice & Financial Services. I support key stakeholders from acquisition teams with marketing analytics projects, to platform and other product lead teams to support the overall progression of analytics at MYOB to make decisions informed by data.
 
-- Using AWS Athena and BigQuery for analysis and data manipulation
-- Making use of event driven architecture (Segment) to create personas for marketing and product analytics
+- Using AWS Athena, Snowflake and BigQuery for analysis and data manipulation
+- Making use of event driven architecture (Segment) to create data pipelines to make analytics easier
 - Creating Airflow DAGs to run on schedule and prep for presentation layer
-- Writing business logic in SQL. For example, lead journey to subscription
+- Writing complex queries/business logic in SQL. For example, lead journey to subscription
 - Creating ETLs to send data between cloud services
+- Define, track, analyse and regularly report on key marketing performance while socialising actionable insights
+- Develop analyses, tools and models to support marketing decision making
 - DDA attribution modelling for marketing effectiveness
 - Software engineering practices using git and clean code principles
 
@@ -88,8 +90,8 @@ Minor: Politics and Public Policy
 - Cloud: AWS, GCP
 - Tag Management/Event Capture: Google Tag Manager, Segment
 - Data Visualisation: Tableau, Data Studio
-- Languages: R, Python, SQL (Athena/Presto, BigQuery), HTML, CSS
+- Languages: R, Python, SQL (Athena/Presto, BigQuery, Snowflake), HTML, CSS
 - ETL: Airflow
-- Testing: Optimizely
+- Testing: Optimizely, Split
 - CMS: Wordpress
 - OS: Unix/Linux
