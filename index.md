@@ -27,7 +27,7 @@ Working in the Digital Analytics team within Operations & Enablement at MYOB acr
 - Creating Airflow DAGs to run on schedule and prep for presentation layer
 - Writing complex queries/business logic in SQL. For example, lead journey to subscription
 - Creating ETLs to send data between cloud services
-- Define, track, analyse and regularly report on key marketing performance while socialising actionable insights
+- Experimentation from test design, methodology and reporting to drive subscription
 - Develop analyses, tools and models to support marketing decision making
 - DDA attribution modelling for marketing effectiveness
 - Software engineering practices using git and clean code principles
