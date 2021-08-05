@@ -89,9 +89,9 @@ Minor: Politics and Public Policy
 - Analytics: Google Analytics
 - Cloud: AWS, GCP
 - Tag Management/Event Capture: Google Tag Manager, Segment
-- Data Visualisation: Tableau, Data Studio
+- Data Visualisation: Tableau, Data Studio, redash
 - Languages: R, Python, SQL (Athena/Presto, BigQuery, Snowflake), HTML, CSS
-- ETL: Airflow
+- ETL: Airflow, dbt
 - Testing: Optimizely, Split
 - CMS: Wordpress
 - OS: Unix/Linux
