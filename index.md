@@ -15,12 +15,39 @@ coffee \| running \| finance \| coding
 
 ## Career Experience
 
-`May 2019 - Present`
+`January 2022 - Present`
+**MYOB**, Cremorne, Victoria
+
+*Role: Product Analytics Manager*
+
+As I continued to show the value of Product Analytics in driving good decision making, the team expanded and I was promoted to a manager role. From here I hired 3 Product Analysts in the team, built out the functional home and created a hybrid embedded model for analysts to workin within our product and delivery teams. This role has allowed me to keep growing my technical capacity in delivering quality analytics and insights, but create a better data culture, coach, mentor and pair with the other analysts within the team. Some key highlights from my time in Product analyticds have been;
+
+- Third party app marketplace recommendation engine, increasing attachment rates and overall reducing churn
+- Working embedded with a SME product and delivery team shipping a new inventory management feature. From telemetry instrumentation, to utilisation reporting which included metrics like ARR and CAC of the feature, we played a fundamental role in helping our teams understand measurement from EAP all the way through to GA
+- Self employee onboarding feature via our relationship with Flare - once again embedded within a team that delivered a new feature to simplify business owners onboarding new employees. Analytics played a major role in telemetry instrumentation, building reporting to measure performance when the feature was launched and development of key metrics and maintaining data pipelines associated with the feature
+- Cohort retention analyses and frequency insights - this was analytics work presented to the CTO and all the product heads as it uncovered interesting information that helped the business validate opportunities around the larger product strategy as MYOB moved towards its goal of developing a business management platform
+- Developed all of the processes for the Product Analytics function including hiring of analysts, coaching, mentoring and creating a model that would ultimately add value for the wider product and tech community
+
+`September 2021 - January 2022`
+**MYOB**, Cremorne, Victoria
+
+*Role: Senior Product Analyst*
+
+After spending time in analytics within the Sales & Support function of the organisation, I moved to Product & Technology where I was the first Product Analyst hire. This role allowed me to take on more leadership responsibilities, work with a new set of stakeholders from product managers, developers and broader engineering teams who are shipping features. This gave me the chance to work through new and different problems, help shaping product strategy and helping teams make decisions based on insights from customers who engage with our products.
+
+`June 2021 - August 2021`
+**MYOB**, Cremorne, Victoria
+
+*Role: Senior Digital Insights Analyst*
+
+This role was a continuation of my work as a Digital Insights Analyst. After being promoted to a Senior, I took on more leadership responsibilities and played an active role in leading more projects.
+
+`May 2019 - June 2021`
 **MYOB**, Cremorne, Victoria
 
 *Role: Digital Insights Analyst*
 
-Working in the Digital Analytics team within Operations & Enablement at MYOB across SME, Enterprise, Practice & Financial Services. I support key stakeholders from acquisition teams with marketing analytics projects, to platform and other product lead teams to support the overall progression of analytics at MYOB to make decisions informed by data.
+Working in the Digital Analytics team within Operations & Enablement at MYOB across SME, Enterprise, Practice & Financial Services. I support key stakeholders from acquisition teams with marketing analytics projects, to platform and other product lead teams to support the overall progression of analytics at MYOB to make better decisions that drive acquisition volume.
 
 - Using AWS Athena, Snowflake and BigQuery for analysis and data manipulation
 - Making use of event driven architecture (Segment) to create data pipelines to make analytics easier
@@ -84,7 +111,7 @@ Thesis: '[Tweeting the News: The role of Australian Political Journalists using 
 *Bachelor of Arts (Journalism)*
 Minor: Politics and Public Policy
 
-## Computing Stack
+## Computing Stack / Tooling
 
 - Analytics: Google Analytics
 - Cloud: AWS, GCP
