@@ -31,7 +31,7 @@ As I continued to show the value of Product Analytics in driving good decision m
 <!--all the product heads as it uncovered interesting information that helped the business validate opportunities around the larger product strategy as MYOB moved towards its goal of developing a business management platform-->
 - Trial cancellation behaviour after implementing payment up-front / early-life of a trialist
 <!--I was able to validate assumptions and found that many trialists were spending the first few minutes of their trial cancelling, so they don't get charged after 30 days - this helped us create a better onboarding experience to present the value of our product in the early life of a trialist.-->
-- Developed all of the processes for the Product Analytics function including hiring of analysts, coaching, mentoring and creating a model that would ultimately add value for the wider product and tech community
+- Built Product Analytics function including hiring of analysts, coaching, mentoring and creating a model that would add value for the product and tech community
 
 `September 2021 - January 2022`
 **MYOB**, Cremorne, Victoria
