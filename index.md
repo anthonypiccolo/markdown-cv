@@ -27,11 +27,11 @@ As I continued to show the value of Product Analytics in driving good decision m
 <!--From telemetry instrumentation, to utilisation reporting which included metrics like ARR and CAC of the feature, we played a fundamental role in helping our teams understand measurement from EAP all the way through to GA-->
 - Self employee onboarding feature via our partnership with Flare
 <!--once again embedded within a team that delivered a new feature to simplify business owners onboarding new employees. Analytics played a major role in telemetry instrumentation, building reporting to measure performance when the feature was launched and development of key metrics and maintaining data pipelines associated with the feature-->
-- Cohort retention analyses and frequency insights - this was analytics work presented to the CTO and heads of product to assist in product strategy
+- Cohort retention analyses and frequency insights - this overall assisted in validating product strategy
 <!--all the product heads as it uncovered interesting information that helped the business validate opportunities around the larger product strategy as MYOB moved towards its goal of developing a business management platform-->
 - Trial cancellation behaviour after implementing payment up-front / early-life of a trialist
 <!--I was able to validate assumptions and found that many trialists were spending the first few minutes of their trial cancelling, so they don't get charged after 30 days - this helped us create a better onboarding experience to present the value of our product in the early life of a trialist.-->
-- Built Product Analytics function including hiring of analysts, coaching, mentoring and creating a model that would add value for the product and tech community
+- Built Product Analytics function not limited to hiring of analysts, coaching and mentoring
 
 `September 2021 - January 2022`
 **MYOB**, Cremorne, Victoria
