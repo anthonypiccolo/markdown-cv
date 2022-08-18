@@ -23,15 +23,10 @@ coffee \| running \| finance \| coding
 As I continued to show the value of Product Analytics in driving good decision making, the team expanded and I was promoted to a manager role. From here I hired 3 Product Analysts in the team, built out the functional home and created a hybrid embedded model for analysts to workin within our product and delivery teams. This role has allowed me to keep growing my technical capacity in delivering quality analytics and insights, but create a better data culture, coach, mentor and pair with the other analysts within the team. Some key highlights from my time in Product Analytics have been;
 
 - Third party app marketplace recommendation engine, increasing attachment rates and overall reducing churn
-
 - Working embedded with a SME product and delivery team shipping a new inventory management feature. From telemetry instrumentation, to utilisation reporting which included metrics like ARR and CAC of the feature, we played a fundamental role in helping our teams understand measurement from EAP all the way through to GA
-
 - Self employee onboarding feature via our relationship with Flare - once again embedded within a team that delivered a new feature to simplify business owners onboarding new employees. Analytics played a major role in telemetry instrumentation, building reporting to measure performance when the feature was launched and development of key metrics and maintaining data pipelines associated with the feature
-
 - Cohort retention analyses and frequency insights - this was analytics work presented to the CTO and all the product heads as it uncovered interesting information that helped the business validate opportunities around the larger product strategy as MYOB moved towards its goal of developing a business management platform
-
 - Trial cancellation behaviour after implementing payment up-front. I was able to validate assumptions and found that many trialists were spending the first few minutes of their trial cancelling, so they don't get charged after 30 days - this helped us create a better onboarding experience to present the value of our product in the early life of a trialist.
-
 - Developed all of the processes for the Product Analytics function including hiring of analysts, coaching, mentoring and creating a model that would ultimately add value for the wider product and tech community
 
 `September 2021 - January 2022`
