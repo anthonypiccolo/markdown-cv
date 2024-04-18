@@ -3,9 +3,7 @@ layout: cv
 title: Anthony Piccolo's CV
 ---
 # Anthony James Piccolo
-Digital Analytics Professional
-
-coffee \| running \| finance \| coding
+Product Analytics Manager
 
 <div id="webaddress">
 <i class="fas fa-at"></i> <a href="mailto:anthony@piccolo.xyz">anthony@piccolo.xyz</a> /
