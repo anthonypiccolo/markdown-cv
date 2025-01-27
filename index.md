@@ -21,15 +21,16 @@ Product Analytics Manager
 
 I demonstrated the value of Product Analytics in driving strong decision-making, leading to the team's expansion and my promotion to manager. I hired four Product Analysts, established the functional home, and implemented a hybrid embedded model for analysts to collaborate within product and delivery teams. In this role, I continued to grow my technical expertise in delivering quality analytics and insights while fostering a better data culture. I coached, mentored, and collaborated closely with team analysts. Key highlights from my time in Product Analytics include:
 
-- Promote iterative and hypothesis driven feature development (Employee self onboarding, OIP)
+- Promote iterative and hypothesis driven feature development through product insights (Employee self onboarding, OIP)
 <!--once again embedded within a team that delivered a new feature to simplify business owners onboarding new employees. Analytics played a major role in telemetry instrumentation, building reporting to measure performance when the feature was launched and development of key metrics and maintaining data pipelines associated with the feature. I was able to validate assumptions and found that many trialists were spending the first few minutes of their trial cancelling, so they don't get charged after 30 days - this helped us create a better onboarding experience to present the value of our product in the early life of a trialist.-->
-- Design, test, execute and analyse experiments to validate hypotheses increasing adoption, retention of MYOB products (eg: Increased early life retention rate by 8%)
+- Design, test, execute and analyse experiments to validate hypotheses increasing adoption, retention of MYOB products (Increased early life retention rate by ~8%)
 - Develop strategic datasets / data products from complex customer data enabling product teams
 - Consult with dev teams on telemetry instrumentation and development of metrics to measure success
 <!--From telemetry instrumentation, to utilisation reporting which included metrics like ARR and CAC of the feature, we played a fundamental role in helping our teams understand measurement from EAP all the way through to GA-->
 - Cohort retention analyses and frequency insights - this overall assisted in validating product strategy
 <!--all the product heads as it uncovered interesting information that helped the business validate opportunities around the larger product strategy as MYOB moved towards its goal of developing a business management platform-->
 - Built Product Analytics function not limited to hiring of analysts, coaching, mentoring and overall strategy
+- Provided leadership and guidance re Product Analytics tooling, CDP and overall customer data model
 
 `September 2021 - January 2022`
 **MYOB**, Cremorne, Victoria
