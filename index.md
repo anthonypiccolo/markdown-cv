@@ -21,16 +21,14 @@ Product Analytics Manager
 
 As I continued to show the value of Product Analytics in driving good decision making, the team expanded and I was promoted to a manager role. From here I hired 4 Product Analysts in the team, built out the functional home and created a hybrid embedded model for analysts to workin within our product and delivery teams. This role has allowed me to keep growing my technical capacity in delivering quality analytics and insights, but create a better data culture, coach, mentor and pair with the other analysts within the team. Some key highlights from my time in Product Analytics have been;
 
-- Third party app marketplace recommendation engine, increasing attachment rates and overall reducing churn
-- Working embedded with product and delivery team shipping a new inventory management feature
+- Promote iterative and hypothesis driven feature development (Employee self onboarding, OIP)
+<!--once again embedded within a team that delivered a new feature to simplify business owners onboarding new employees. Analytics played a major role in telemetry instrumentation, building reporting to measure performance when the feature was launched and development of key metrics and maintaining data pipelines associated with the feature. I was able to validate assumptions and found that many trialists were spending the first few minutes of their trial cancelling, so they don't get charged after 30 days - this helped us create a better onboarding experience to present the value of our product in the early life of a trialist.-->
+- Design, test, execute and analyse experiments to validate hypotheses increasing adoption, retention of MYOB products (Bankfeed nudge experiment, Onboarding and activation experiments)
+- Develop strategic datasets / data products from complex customer data to enable teams to make sense of product/behavioural data
+- Consult with dev teams on telemetry instrumentation and development of metrics to measure success
 <!--From telemetry instrumentation, to utilisation reporting which included metrics like ARR and CAC of the feature, we played a fundamental role in helping our teams understand measurement from EAP all the way through to GA-->
-- Self employee onboarding feature via our partnership with Flare
-<!--once again embedded within a team that delivered a new feature to simplify business owners onboarding new employees. Analytics played a major role in telemetry instrumentation, building reporting to measure performance when the feature was launched and development of key metrics and maintaining data pipelines associated with the feature-->
 - Cohort retention analyses and frequency insights - this overall assisted in validating product strategy
 <!--all the product heads as it uncovered interesting information that helped the business validate opportunities around the larger product strategy as MYOB moved towards its goal of developing a business management platform-->
-- Trial cancellation behaviour after implementing payment up-front / early-life of a trialist
-- Helped validate and make product decisions by designing, and analysing various experiments
-<!--I was able to validate assumptions and found that many trialists were spending the first few minutes of their trial cancelling, so they don't get charged after 30 days - this helped us create a better onboarding experience to present the value of our product in the early life of a trialist.-->
 - Built Product Analytics function not limited to hiring of analysts, coaching, mentoring and overall strategy
 
 `September 2021 - January 2022`
@@ -120,7 +118,7 @@ Minor: Politics and Public Policy
 
 - Analytics: Google Analytics
 - Cloud: AWS, GCP
-- Collection: Segment, Tag Manager
+- CDP: Segment
 - Data Visualisation: Tableau, Data Studio, redash, superset, PowerBi
 - Languages: R, Python, SQL (Athena/Presto, BigQuery, Snowflake), HTML, CSS
 - ETL: Airflow, dbt
