@@ -6,7 +6,7 @@ title: Anthony Piccolo's CV
 Product Analytics Manager
 
 <div id="webaddress">
-<i class="fas fa-at"></i> <a href="mailto:anthony@piccolo.xyz">anthony@piccolo.xyz</a> /
+<i class="fas fa-at"></i> <a href="mailto:anthonyjpiccolo@gmail.com">anthonyjpiccolo@gmail.com</a> /
 <i class="fas fa-globe-americas"></i> <a href="https://anthonypiccolo.xyz" target="_blank">anthonypiccolo.xyz</a> /
 <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/anthonyjpiccolo/" target="_blank">anthonypiccolo</a> /
 <i class="fab fa-github-alt"></i> <a href="https://github.com/anthonypiccolo" target="_blank">anthonypiccolo</a>
